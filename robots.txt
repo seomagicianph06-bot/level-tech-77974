@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seomagicianph06-bot.github.io/level-tech-77974/sitemap.xml
